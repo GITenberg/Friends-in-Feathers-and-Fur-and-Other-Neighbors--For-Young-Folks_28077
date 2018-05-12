@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '2779'
     url: http://www.gutenberg.org/2009/agents/2779
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28077#Friends-in-Feathers-and-Fur-and-Other-Neighbors--For-Young-Folks
 gutenberg_bookshelf: Animals-Wild-Birds
 gutenberg_issued: '2009-02-14'
 gutenberg_type: Text
